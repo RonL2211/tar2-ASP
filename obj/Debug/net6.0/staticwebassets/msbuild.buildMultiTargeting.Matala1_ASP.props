@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Matala1_ASP.props" />
+</Project>
